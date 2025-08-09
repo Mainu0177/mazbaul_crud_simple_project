@@ -12,8 +12,8 @@
         <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
 
         <!-- DataTable -->
-        <link rel="stylesheet" href="{{asset('assets/css/dataTables.min.css')}}">
         <script src="{{asset('assets/js/code.jquery.com_jquery-3.7.0.min.js')}}"></script>
+        <link rel="stylesheet" href="{{asset('assets/js/code.jquery.com_jquery-3.7.0.min.js')}}">
         <script src="{{asset('assets/js/jquery.dataTables.min.js')}}"></script>
 
         <!-- bootstrap js -->
